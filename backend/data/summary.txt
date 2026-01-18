@@ -1,0 +1,11 @@
+I am an AI/ML Engineer and Full-Stack Developer with 14+ years of experience in Artificial Intelligence, Agentic AI, Generative AI, NLP, Semantic Search, and enterprise-scale application development.
+
+My expertise includes Agentic Conversational Systems, RAG pipelines, LLMOps, transformer-based models, full-stack engineering (React, Angular, Spring Boot), and scalable ML architecture design.
+
+Currently, I'm focused on building Agentic AI systems, enterprise RAG platforms, feedback intelligence pipelines, and large-scale AI automation for enterprise workflows.
+
+My background includes leading ML and search engineering initiatives at Verizon and Cognizant, building production-grade semantic search, T5-based Smart Correct systems, conversational assistants, GenAI automation workflows, and full-stack applications used across large organizations.
+
+I’m passionate about sports, particularly cricket and badminton. In my school days, I actively played football and enjoyed it just as much.
+Currently, my primary focus is on badminton, and I take part in most of the tournaments I come across.
+In addition to sports, I’m committed to fitness. Hitting the gym is the first task of my day, and I consider it an essential part of my daily routine.

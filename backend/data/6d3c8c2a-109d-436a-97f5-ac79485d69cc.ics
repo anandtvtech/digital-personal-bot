@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendly//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20260112T160054Z
+UID:calendly-1488911073
+DTSTART:20260112T160000Z
+DTEND:20260112T163000Z
+CLASS:PRIVATE
+DESCRIPTION:Event Name: Interview\nDate & Time: 09:30pm - 10:00pm (India St
+ andard Time) on Monday\, January 12\, 2026\n\nWhat position are you applyi
+ ng for?: AIML Engineer\n\nHow many years experience do you have on this fi
+ eld: overall 14yrs and specific to AIML 5yrs\n\nWhat’s your full name an
+ d email address?: Anandkumar T V and anandtv.tech@gmail.com\n\nIf selected
+ \, how soon can you start with date: Immediate joinee (<15days)\n\nNeed to
+  make changes to this event?\nCancel: https://calendly.com/cancellations/6
+ d3c8c2a-109d-436a-97f5-ac79485d69cc\nReschedule: https://calendly.com/resc
+ hedulings/6d3c8c2a-109d-436a-97f5-ac79485d69cc\n
+SUMMARY:Interview with HR Eviknova
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

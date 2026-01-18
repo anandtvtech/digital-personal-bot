@@ -1,0 +1,157 @@
+{
+    "full_name": "Anandkumar T V",
+    "name": "Anand",
+    "current_role": "Engineer III – AI/ML Engineering",
+    "location": "India",
+    "email": "anandtv.tech@gmail.com",
+    "linkedin": "https://linkedin.com/in/anandkumartv",
+    "specialties": [
+      "AI/ML Engineering",
+      "Agentic & Generative AI",
+      "Search Systems",
+      "LLMOps & Evaluation",
+      "NLP",
+      "Full-Stack Engineering (React, Angular, Spring Boot)"
+    ],
+    "years_experience": 14,
+    "education": [
+      {
+        "degree": "Post Graduate Program in Cloud Computing",
+        "institution": "Great Lakes",
+        "year": "2025"
+      },
+      {
+        "degree": "Post Graduate Program in Artificial Intelligence and Machine Learning",
+        "institution": "Great Lakes & University of Texas",
+        "year": "2023"
+      },
+      {
+        "degree": "Bachelor of Engineering, Computer Science",
+        "institution": "SREC – Anna University, India",
+        "year": "2009"
+      },
+      {
+        "degree": "12th Higher Secondary Education",
+        "institution": "St Joseph Matriculation School, India",
+        "year": "2005"
+      },
+      {
+        "degree": "10th Matriculation",
+        "institution": "St Joseph Matriculation School, India",
+        "year": "2003"
+      }
+    ],
+    "professional_summary": [
+      "Senior AI/ML & Agentic AI Engineer with 14+ years of experience across telecom and consumer tech.",
+      "Expert in Agentic Conversational AI, RAG pipelines, semantic search, and full-stack ML system development.",
+      "Hands-on with LLMs, SLMs, embeddings, transformers, fine-tuning (Roberta, Sentence-Transformer, Bart, Mistral).",
+      "Experienced in building scalable end-to-end AI systems including retrieval pipelines, API deployment, UI integration.",
+      "Strong background in FastAPI, Spring Boot, React, Angular, and Drupal-based enterprise systems."
+    ],
+    "key_projects": [
+      "Agentic Conversational AI for Verizon Digital Assistant (VZDA) – Automated multi-step workflows like desk booking, leave management, OOO updates across Slack, calendar, and email.",
+      "GenAI HRAnswers Chatbot – RAG-based GenAI assistant reducing HR tickets and improving CSAT.",
+      "GenAI Feedback Intelligence – Built LLM pipelines for sentiment, summarization, tagging, and user-story extraction.",
+      "Semantic Search System – Built context-aware semantic search with transformer re-ranking and Smart Correct (T5-based)."
+    ],
+    "skills": {
+      "ai_ml": [
+        "ML",
+        "Deep Learning",
+        "NLP",
+        "GenAI",
+        "LLMs",
+        "RAG",
+        "Transformers",
+        "PyTorch",
+        "TensorFlow",
+        "Semantic Search"
+      ],
+      "genai_search": [
+        "Agentic AI",
+        "LLM Summarization",
+        "Auto-Tagging",
+        "Vector DBs",
+        "Prompt Engineering",
+        "Query Understanding"
+      ],
+      "cloud": [
+        "Amazon Bedrock",
+        "Amazon Sagemaker",
+        "AWS Lambda",
+        "S3"
+      ],
+      "full_stack": [
+        "React",
+        "Angular",
+        "AngularJS",
+        "Drupal",
+        "PHP",
+        "Java Spring Boot",
+        "HTML/CSS/JS"
+      ],
+      "programming_db": [
+        "Python",
+        "SQL",
+        "PostgreSQL",
+        "MongoDB"
+      ],
+      "tools": [
+        "Adobe Analytics",
+        "Git",
+        "CI/CD"
+      ]
+    },
+    "awards": [
+      "CSG Ideathon Top 3 – GenAI Feedback As A Service",
+      "2× Daraya-E-Noor Excellence Awards (Cognizant)",
+      "Multiple Spot Awards for Innovation & Delivery (Verizon)"
+    ],
+    "experience": [
+      {
+        "role": "Engineer III – AI/ML Engineering",
+        "company": "Verizon",
+        "duration": "Apr 2022 – Present",
+        "highlights": [
+          "Built Agentic AI automation flows for VZDA handling calendar, Slack, email automation.",
+          "Developed conversational orchestration for intent understanding, context, and multi-step actions.",
+          "Built RAG-based GenAI assistant for HRAnswers Chatbot.",
+          "Designed feedback intelligence pipelines to reduce manual analysis by 60%.",
+          "Used Adobe Analytics for journey analysis and CTR optimization."
+        ]
+      },
+      {
+        "role": "Technology Specialist – Machine Learning & Full Stack",
+        "company": "Cognizant (Nationwide | Masterbrand)",
+        "duration": "Mar 2015 – Mar 2022",
+        "highlights": [
+          "Architected semantic search with transformer re-ranking and <800ms latency.",
+          "Built T5-based Smart Correct with <300ms optimized CPU inference.",
+          "Led AngularJS → Angular migration.",
+          "Developed APIs using Java Spring Boot.",
+          "Led team of 5 through production releases."
+        ]
+      },
+      {
+        "role": "Analyst – UI & Drupal Engineer",
+        "company": "Verizon",
+        "duration": "Jun 2012 – Feb 2015",
+        "highlights": [
+          "Migrated enterprise VZWeb to Drupal.",
+          "Designed modules, themes, personalization components.",
+          "Conducted training for 30+ engineers."
+        ]
+      },
+      {
+        "role": "Software Engineer – UI & Drupal",
+        "company": "Photon Infotech | J&J",
+        "duration": "Sep 2010 – May 2012",
+        "highlights": [
+          "Migrated static HTML to dynamic Drupal pages.",
+          "Developed jQuery-based Q&A interfaces.",
+          "Delivered high-quality UI components on time."
+        ]
+      }
+    ]
+  }
+  
